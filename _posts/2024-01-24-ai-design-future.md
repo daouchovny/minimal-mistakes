@@ -6,6 +6,7 @@ categories: [AI]
 tags: [LLM, 產品設計, 原型]
 author_profile: true
 classes: [title-small]
+
 ---
 
 近年我投入大型語言模型（LLM）應用研究，包含與工研院合作的 Design LMM 專案。我們利用生成式 AI 與 Trellis 3D mapping，將文字與圖像提示轉換為「可申請專利」的 3D 物件與空間設計稿，讓創新概念能更快落地。

@@ -6,6 +6,7 @@ categories: [職涯]
 tags: [產品設計, 領導, 跨國協作]
 author_profile: true
 classes: [title-small]
+
 ---
 
 過去十多年，我在不同規模的組織中推動產品設計，角色涵蓋 UX 策略、介面系統建構、跨平台 UIUX 設計與跨部門協作。2018–2023 年於 LINE 台灣，帶領 LINE 購物與 LINE TODAY 的產品設計，聚焦介面重構、平台一致性、使用者研究與商業成效整合。
